@@ -1,6 +1,6 @@
 const KEYS = {
     employees: 'employees',
-    employeeId: 'employeeId'
+    employeeId: 'employeeId',
 };
 
 export const getDepartmentCollection = () => ([
